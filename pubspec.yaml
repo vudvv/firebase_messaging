@@ -26,7 +26,10 @@ dependencies:
     git:
       url: https://github.com/vudvv/firebase_messaging_platform_interface.git
       ref: v4.5.47
-  firebase_messaging_web: ^3.9.2
+  firebase_messaging_web:
+    git:
+      url: https://github.com/vudvv/firebase_messaging_web.git
+      ref: v3.9.2
   flutter:
     sdk: flutter
   meta: ^1.8.0
